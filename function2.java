@@ -8,8 +8,8 @@ class Main{
 
     public static void main(String [] k){
         
-        double a = 5;
-        double b = 6;
+        double a = 5.255;
+        double b = 6.5;
 
         
         double result = product(a, b);
