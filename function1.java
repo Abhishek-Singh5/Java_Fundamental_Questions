@@ -1,7 +1,7 @@
 class Main{
     
     public static void sum(int x, int y, int z){
-        int add = x + y;
+        int add = x + y + z;
         
         System.out.println(add);
     }
